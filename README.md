@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hola soy Wandy! 👋
 
-<!--
-**WMP1018/WMP1018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🚀 Acerca de mi
+Soy un desarrollador Full Stack apasionado por la tecnología y la programación. Actualmente estoy estudiando desarrollo de software en ParqueSoft y desarrollo de aplicaciones en la blockchain de Ethereum por medio de ETH.Kipu. Te invito a que des un vistazo a lo que he hecho y mis proyectos...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+## 🛠 Skills
+Javascript (NodeJS, ExpressJS),
+HTML,
+CSS,
+Angular,
+MongoDB,
+SQL (PostgreSQL, SQL Server),
+Java,
+Python
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wandy-mu%C3%B1oz-pulgarin-405301210/)
+
